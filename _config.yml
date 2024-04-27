@@ -21,7 +21,7 @@ repository               :
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Head_Lab.jpg"
   name             : Yuchi TANG
   pronouns         : he\his  
   bio              : AI researcher in explainable machine learning

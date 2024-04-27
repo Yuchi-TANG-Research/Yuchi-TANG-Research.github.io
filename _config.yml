@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-title                    : "Yuchi TANG's research"
+title                    : "Yuchi TANG's Research"
 title_separator          : "-"
 name                     : &name "Yuchi TANG"
-description              : &description "AI researcher"
+description              : 
 url                      : https://Yuchi-TANG-Research.github.io
 baseurl                  : 
 repository               : 
@@ -24,7 +24,7 @@ author:
   avatar           : "Head_Lab.jpg"
   name             : Yuchi TANG
   pronouns         : he\his  
-  bio              : AI researcher in explainable machine learning
+  bio              : XAI researcher
   location         : 
   employer         : 
   uri              : 

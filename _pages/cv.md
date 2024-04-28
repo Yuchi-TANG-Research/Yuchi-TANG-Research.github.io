@@ -11,36 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Automatic Control and Systems Engineering, The University of Sheffield, 2027 (expected)
+* M.S. in Computer Control and Engineering, Nanyang Technological University, 2022
+* B.S. in Electrical Engineering and Automation, Zhejiang University, 2020
 
-Work experience
+Research-related work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Assistant: Dec 2021 - Apr 2022 
+  * Affiliation: Energy Research Institute @ Nanyang Technological University (ERI@N) 
+  * Project: Model Predictive Based Building Automation and Control System (for a smart building in Singapore) 
+  * Duties included: Testing machine learning-based models for PMV (an index to measure thermal comfort) prediciton; integrating the models into a model predictive controller to minimize energy costs
+* Research Assistant: Mar 2021 - May 2021
+  * Affiliation: Tsinghua University
+  * Project: Self-response data-driven algorithm for virtual power plant (VPP)
+  * Duties included: Testing machine learning-based models for electricity price prediciton; integrating the models into a deep reinfocement learning algorithm to maximize the profit of a VPP
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine learning model building
+  * Python
+  * Matlab
+* Data cleaning 
+  * SQL
+  * Excel Pivot Table
+* Post-hoc analysis for explaining machine learning models
+  * Shapley-value-based methods (including SHapley Additive exPlanations, SHAP)
 
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -57,8 +54,5 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  {% endfor %}</ul> 
+-->

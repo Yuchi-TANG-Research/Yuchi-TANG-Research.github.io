@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Yuchi TANG"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -21,6 +21,7 @@ Research-related work experience
   * Affiliation: Energy Research Institute @ Nanyang Technological University (ERI@N) 
   * Project: Model Predictive Based Building Automation and Control System (for a smart building in Singapore) 
   * Duties included: Testing machine learning-based models for PMV (an index to measure thermal comfort) prediciton; integrating the models into a model predictive controller to minimize energy costs
+    
 * Research Assistant: Mar 2021 - May 2021
   * Affiliation: Tsinghua University
   * Project: Self-response data-driven algorithm for virtual power plant (VPP)
@@ -31,12 +32,15 @@ Skills
 * Machine learning model building
   * Python
   * Matlab
+    
 * Feature engineering and data cleaning 
   * SQL
   * Excel Pivot Table
   * Google Cloud BigQuery
+    
 * Post-hoc analysis for explaining the decision-making patterns of data-driven models (including machine learning models)
   * Shapley-value-based methods (including SHapley Additive exPlanations, SHAP)
+    
 * Deploying "heavy" computing tasks on the cloud 
   * High Performance Computing 
   * RONIN 

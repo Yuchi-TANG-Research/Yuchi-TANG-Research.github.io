@@ -7,9 +7,10 @@ redirect_from:
   - /resume
 ---
 
+<br/>
+
 {% include base_path %}
 
-<br/>
 Education
 ======
 * Ph.D in Automatic Control and Systems Engineering, The University of Sheffield, 2027 (expected)

@@ -31,11 +31,15 @@ Skills
 * Machine learning model building
   * Python
   * Matlab
-* Data cleaning 
+* Feature engineering and data cleaning 
   * SQL
   * Excel Pivot Table
+  * Google Cloud BigQuery
 * Post-hoc analysis for explaining machine learning models
   * Shapley-value-based methods (including SHapley Additive exPlanations, SHAP)
+* Construction of cloud computing nodes based on virtual machines
+  * High Performance Computing
+  * RONIN 
 
 <!-- 
 Publications

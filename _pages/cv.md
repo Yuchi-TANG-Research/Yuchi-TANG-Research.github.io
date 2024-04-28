@@ -35,7 +35,7 @@ Skills
   * SQL
   * Excel Pivot Table
   * Google Cloud BigQuery
-* Post-hoc analysis for explaining machine learning models
+* Post-hoc analysis for explaining the decision-making patterns of data-driven models (including machine learning models)
   * Shapley-value-based methods (including SHapley Additive exPlanations, SHAP)
 * Construction of cloud computing nodes based on virtual machines
   * High Performance Computing
